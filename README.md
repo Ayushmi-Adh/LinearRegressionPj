@@ -28,7 +28,7 @@ pip install pandas numpy scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sonar-data-classification.git
+git clone https://github.com/Ayushmi-Adh/sonar-data-classification.git
 cd sonar-data-classification
 ```
 
