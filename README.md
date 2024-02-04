@@ -23,23 +23,6 @@ Install the dependencies using the following command:
 pip install pandas numpy scikit-learn
 ```
 
-## Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Ayushmi-Adh/sonar-data-classification.git
-cd sonar-data-classification
-```
-
-2. Run the Python script:
-
-```bash
-python sonar_classification.py
-```
-
-3. View the results:
-
 The script prints the accuracy of the model on both the training and test datasets. Additionally, it includes a predictive system where you can input new data and get a classification result.
 
 ## Predictive System
