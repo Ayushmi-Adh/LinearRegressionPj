@@ -1,6 +1,6 @@
 # Sonar Data Classification
 
-![R](https://github.com/Ayushmi-Adh/LinearRegressionPj/assets/132826306/4507cb88-c081-4dfc-ad84-58e2218d8039)
+![04-07-28-574_512](https://github.com/Ayushmi-Adh/LogisticRegressionProject/assets/132826306/0599388a-8345-4fcb-942e-695e713c9af3)
 
 
 ## Overview
